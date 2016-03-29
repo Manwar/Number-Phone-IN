@@ -1,0 +1,15 @@
+Changes
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+lib/Number/Phone/IN.pm
+lib/Number/Phone/IN/Operator.pm
+lib/Number/Phone/IN/Zone.pm
+lib/Number/Phone/IN/Chart.pm
+lib/Number/Phone/IN/STD.pm
+t/00-load.t
+t/manifest.t
+t/pod.t
+share/config.json
